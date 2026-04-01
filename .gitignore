@@ -1,0 +1,12 @@
+# Python
+*.pyc
+__pycache__/
+
+# Uploads
+/uploads/
+
+# Data
+/data/
+
+# Colab
+.ipynb_checkpoints/
